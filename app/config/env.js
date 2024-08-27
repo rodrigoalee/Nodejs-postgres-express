@@ -1,9 +1,9 @@
 const env={
-    host: 'dpg-cqc6bn56l47c73cumkc0-a',
+    host: 'dpg-cr6jn0d6l47c7394r890-a',
     port: 5432,
-    username: 'rodrigoumg2024_user',
-    password: '7A2iXXF4tjxzAPzNOx9lrcBzPCquG6J1',
-    database: process.env.database| 'rodrigoumg2024',
+    username: 'rodrigoumg2024_uir8_user',
+    password: 'PApZEMwpHxkRzKxd8ppSYaHb3vl1MoZp',
+    database: process.env.database| 'rodrigoumg2024_uir8',
   dialect: 'postgres',
   
   pool:{
