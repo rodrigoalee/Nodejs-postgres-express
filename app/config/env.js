@@ -3,7 +3,7 @@ const env={
     port: 5432,
     username: 'rodrigoumg2024_uir8_user',
     password: 'PApZEMwpHxkRzKxd8ppSYaHb3vl1MoZp',
-    database: process.env.database| 'rodrigoumg2024_uir8',
+    database:'rodrigoumg2024_uir8',
   dialect: 'postgres',
   
   pool:{
